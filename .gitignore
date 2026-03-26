@@ -1,0 +1,67 @@
+# =========================
+# Python basics
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter / notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Data files (important for your projects)
+# =========================
+Data/
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# =========================
+# Model artifacts
+# =========================
+*.pkl
+*.joblib
+*.model
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# Build / distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Mac/Linux temp files
+# =========================
+*.swp
+*.swo
